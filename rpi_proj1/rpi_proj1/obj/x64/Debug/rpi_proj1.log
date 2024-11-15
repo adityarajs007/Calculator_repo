@@ -5,10 +5,6 @@
 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\Linux.targets(203,5): warning : Current project architecture 'x64' is incompatible with the remote system architecture 'ARM64' ('aarch64'). Please switch the project architecture to 'ARM64' in Configuration Manager. If you are cross-compiling you can ignore this warning.
   Starting remote build
   Compiling sources:
-  calculator.cpp
-D:\RAS_AI_ALL_Files\Git\Calculator_repo\rpi_proj1\rpi_proj1\calculator.cpp(18,1): warning : control reaches end of non-void function [-Wreturn-type]
-D:\RAS_AI_ALL_Files\Git\Calculator_repo\rpi_proj1\rpi_proj1\calculator.cpp(18,1): warning :    18 | }
-D:\RAS_AI_ALL_Files\Git\Calculator_repo\rpi_proj1\rpi_proj1\calculator.cpp(18,1): warning :       | ^
   main.cpp
   Linking objects
   rpi_proj1.vcxproj -> D:\RAS_AI_ALL_Files\Git\Calculator_repo\rpi_proj1\rpi_proj1\bin\x64\Debug\rpi_proj1.out

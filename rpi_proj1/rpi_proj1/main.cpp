@@ -11,7 +11,7 @@ int main() {
 
     try {
         switch (op) {
-        case '+': std::cout << "Result: modification 14 nov 2: " << calc.add(a, b) << std::endl; 
+        case '+': std::cout << "Result: modification 14 nov 3: " << calc.add(a, b) << std::endl; 
             break;
         case '-': std::cout << "Result: " << calc.subtract(a, b) << std::endl; 
             break;
